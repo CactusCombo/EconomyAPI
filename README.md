@@ -1,5 +1,5 @@
 # EconomyAPI
-EconomyAPI - First Release
+Configuration storage based economy methods
 
 ####How to install:
 Add the following classes to your project:
