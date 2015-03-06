@@ -2,8 +2,10 @@
 EconomyAPI - First Release
 
 ####How to install:
+Add the following classes to your project:
 
-Add EconomyAPI and MoneyStorage to your project source.
+            EconomyAPI.java
+            MoneyStorage.java
 
 ####How to use
 
