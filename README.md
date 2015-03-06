@@ -5,6 +5,7 @@ EconomyAPI - First Release
 Add the following classes to your project:
 
             EconomyAPI.java
+            
             MoneyStorage.java
 
 ####How to use
